@@ -1,0 +1,16 @@
+work_02.png
+size:2018,894
+filter:Linear,Linear
+pma:true
+Final_Png2
+bounds:2,19,1024,873
+circle_B4_x128
+bounds:1283,149,98,99
+offsets:1,0,100,100
+classic_2d_K_x256
+bounds:1028,2,253,246
+offsets:0,5,256,256
+flag
+bounds:1028,250,642,988
+offsets:250,62,1166,1101
+rotate:90
